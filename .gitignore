@@ -9,3 +9,6 @@ dist
 vhs
 .idea/
 .vscode/
+
+# voice model cache
+.cortexkit/
